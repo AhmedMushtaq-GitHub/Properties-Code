@@ -18,6 +18,7 @@ namespace ConsoleApp1
             { 
                 return name; 
             }
+
             set 
             {
                 name = value;
